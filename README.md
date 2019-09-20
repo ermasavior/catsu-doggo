@@ -1,14 +1,12 @@
 # Cats vs Dogs Classifier with Deep Convolutional Neural Network
 
-Implementation of Convolutional Neural Network for Cats and Dogs classifier with VGG model.
+Implementation of Convolutional Neural Network for Cat and Dog pics classifier with VGG model.
 
 ## Requirements
 
 1. Jupyter Notebook
-2. Dogs vs Cats dataset on Kaggle
-3. Patients, to train model
-
-## Results
+2. [Dogs vs Cats dataset on Kaggle](https://www.kaggle.com/c/dogs-vs-cats/data)
+3. Patience, to train model
 
 ## Credits
 
